@@ -25,7 +25,9 @@ Halfway solves this by calculating a fair meeting point and surfacing highly-rat
 ## Demo
 
 <!-- Add a screenshot or GIF here -->
-![Halfway Screenshot](assets/screenshot.png)
+![Halfway Screenshot_1](assets/screenshot_1.png)
+![Halfway Screenshot_2](assets/screenshot_2.png)
+![Halfway Screenshot_3](assets/screenshot_3.png)
 
 ## Getting Started
 
