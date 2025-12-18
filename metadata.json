@@ -1,0 +1,7 @@
+{
+  "name": "NYC Meetup - Halfway",
+  "description": "Find the perfect subway-accessible restaurant midpoint for two people in NYC, with AI-powered fairness analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
